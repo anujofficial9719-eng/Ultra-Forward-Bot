@@ -24,7 +24,6 @@ class Translation(object):
 
 <b>Bot Is Made By @anujedits76</b>"""
 
-    HELP_TXT = """<b><u>🛠️ Help</u></b>
 HELP_TXT = """<b><u>🛠️ Help</u></b>
 
 <b><u>📚 Available Commands :</u></b>
@@ -44,8 +43,8 @@ HELP_TXT = """<b><u>🛠️ Help</u></b>
 ► __Filter Type Of Messages__
 ► __Skip Messages Based On Extensions & Keywords & Size__
 """
-  
-  HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
+
+ HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
   
 ► __Add A Bot Or Userbot__
 ► __Add Atleast One To Channel (Your Bot/Userbot Must Be Admin In There)__

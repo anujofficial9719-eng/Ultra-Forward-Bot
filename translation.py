@@ -25,6 +25,7 @@ class Translation(object):
 <b>Bot Is Made By @anujedits76</b>"""
 
     HELP_TXT = """<b><u>🛠️ Help</u></b>
+HELP_TXT = """<b><u>🛠️ Help</u></b>
 
 <b><u>📚 Available Commands :</u></b>
 ⏣ __/start - Check I'm Alive__ 
@@ -33,7 +34,7 @@ class Translation(object):
 ⏣ __/settings - Configure Your Settings__
 ⏣ __/reset - Reset Your Settings__
 
-<b><u>💢 Features :</b></u>
+<b><u>💢 Features :</u></b>
 ► __Forward Message From Public Channel To Your Channel Without Admin Permission. If The Channel Is Private Need Admin Permission__
 ► __Forward Message From Private Channel To Your Channel By Using Userbot(User Must Be Member In There)__
 ► __Custom Caption__

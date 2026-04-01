@@ -22,10 +22,10 @@ class Translation(object):
   
 ➻ Click Help Button To Know More About Me
   
-<b>Bot Is Made By @Anujedits76</b>"""
+<b>Bot Is Made By <a href="https://t.me/Anujedits76">Anuj</a></b>"""
 
 
-  HELP_TXT = """<b><u>🛠️ Help</b></u>
+    HELP_TXT = """<b><u>🛠️ Help</b></u>
 
 <b><u>📚 Available Commands :</u></b>
 ⏣ __/start - Check I'm Alive__ 
@@ -44,9 +44,9 @@ class Translation(object):
 ► __Filter Type Of Messages__
 ► __Skip Messages Based On Extensions & Keywords & Size__
 """
-  
+    
   HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
-  
+ 
 ► __Add A Bot Or Userbot__
 ► __Add Atleast One To Channel (Your Bot/Userbot Must Be Admin In There)__
 ► __You Can Add Chats Or Bots By Using /settings__

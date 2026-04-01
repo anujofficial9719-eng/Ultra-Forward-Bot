@@ -130,12 +130,12 @@ class Translation(object):
   
 Before Forwarding The Messages Click The Yes Button Only After Checking The Following
 
-<b>★ Your Bot :</b> [{botname}](t.me/{botuname})
+<b>★ Your Bot :</b> [Auto Forward Bot](t.me/File_store_anuj_bot)
 <b>★ From Channel :</b> <code>{from_chat}<>
 <b>★ To Channel :</b> <code>{to_chat}</code>
 <b>★ Skip Messages :</b> <code>{skip}</code>
 
-<i>° [{botname}](t.me/{botuname}) Must Be Admin In <b>Target Chat</b></i> (<code>{to_chat}</code>)
+<i>° [Auto Forward Bot](t.me/File_store_anuj_bot) Must Be Admin In <b>Target Chat</b></i> (<code>{to_chat}</code>)
 <i>° If The <b>Source Chat</b> Is Private Your Userbot Must Be Member Or Your Bot Must Be Admin In There Also</i>
 
 <b>If The Above Is Checked Then The Yes Button Can Be Clicked</b>"""

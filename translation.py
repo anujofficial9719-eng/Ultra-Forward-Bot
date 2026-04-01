@@ -45,7 +45,7 @@ class Translation(object):
 ► __Skip Messages Based On Extensions & Keywords & Size__
 """
     
-  HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
+   HOW_USE_TXT = """<b><u>⚠️ Before Forwarding :</b></u>
  
 ► __Add A Bot Or Userbot__
 ► __Add Atleast One To Channel (Your Bot/Userbot Must Be Admin In There)__
@@ -53,7 +53,7 @@ class Translation(object):
 ► __If The **From Channel** Is Private Your Userbot Must Be Member In There Or Your Bot Must Need Admin Permission In There Also__
 ► __Then Use /forward To Forward Messages__"""
   
-  ABOUT_TXT = """<b>🤖 My Name :</b> {}
+   ABOUT_TXT = """<b>🤖 My Name :</b> {}
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
@@ -62,7 +62,7 @@ class Translation(object):
 
 <b>♻️ Bot Made By : <a href="https://t.me/anujedits76">Anuj</a></b>"""
   
-  STATUS_TXT = """<b><u>Bot Status</u></b>
+   STATUS_TXT = """<b><u>Bot Status</u></b>
   
 <b>👱 Total Users :</b> <code>{}</code>
 
@@ -78,7 +78,7 @@ class Translation(object):
   BOT_DETAILS = "<b><u>📄 Bot Details</u></b>\n\n<b>➣ Name :</b> <code>{}</code>\n<b>➣ Bot ID :</b> <code>{}</code>\n<b>➣ Username :</b> @{}"
   USER_DETAILS = "<b><u>📄 UserBot Details</u></b>\n\n<b>➣ Name :</b> <code>{}</code>\n<b>➣ User ID :</b> <code>{}</code>\n<b>➣ Username :</b> @{}"  
          
-  TEXT = """<b><u>Forward Status</u></b>
+   TEXT = """<b><u>Forward Status</u></b>
   
 <b>🕵 Fetch Message :</b> <code>{}</code>
 
@@ -99,7 +99,7 @@ class Translation(object):
 {}
 """
 
-  TEXT1 = """<b><u>Forwarded Status</u></b>
+   TEXT1 = """<b><u>Forwarded Status</u></b>
 
 <b>🕵 Fetched Message :</b> <code>{}</code>
 
@@ -119,7 +119,7 @@ class Translation(object):
 
 {}"""
 
-  DUPLICATE_TEXT = """<b><u>Unequify Status</u></b>
+   DUPLICATE_TEXT = """<b><u>Unequify Status</u></b>
 
 <b>🕵 Fetched Files :</b> <code>{}</code>
 
@@ -127,7 +127,7 @@ class Translation(object):
 
 {}
 """
-  DOUBLE_CHECK = """<b><u>Double Checking</u></b>
+   DOUBLE_CHECK = """<b><u>Double Checking</u></b>
   
 Before Forwarding The Messages Click The Yes Button Only After Checking The Following
 

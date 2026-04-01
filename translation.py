@@ -24,9 +24,7 @@ class Translation(object):
 
 <b>Bot Is Made By @anujedits76</b>"""
 
-  HELP_TXT = """<b><u>🛠️ Help</b></u></b>
-Some text here...
-"""
+    HELP_TXT = """<b><u>🛠️ Help</u></b>
 
 <b><u>📚 Available Commands :</u></b>
 ⏣ __/start - Check I'm Alive__ 
